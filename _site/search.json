@@ -2,9 +2,51 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Blessing – MBA Portfolio",
+    "title": "Blessing Appiah – MBA Portfolio",
     "section": "",
-    "text": "About Me\nShort, authentic paragraph about your background and interests.\n\n\nEducation\n\nMBA, ABC University (2024–2026)\nB.Sc. in Telecommunications Engineering, DEF University (2016–2020)\n\n\n\nExperience\nQuality of Service Analyst\nNational Communications Authority, Ghana (2021–Present)\n- Leading spectrum analysis and quality monitoring across digital broadcast platforms\nResearch Lead – NPP Election Project\nNationwide Research, Ghana (2024)\n- Designed methodology and led 12-person team to evaluate post-election sentiment\n\n\nSkills\n\nRegulatory Analysis\n\nPython, Excel, Power BI\n\nTeam Leadership\n\nPublic Speaking\n\nProject Management\n\n\n\nContact\n📧 blessing@email.com\n🔗 LinkedIn"
+    "text": "I’m Blessing Appiah, an MBA candidate with a strong foundation in business strategy, data-driven decision-making, and leadership. I bring a unique blend of professional experience in telecommunications regulation and a passion for tech-enabled solutions that drive impact.\nWith a background in engineering and public sector strategy, I thrive at the intersection of innovation, policy, and growth. I’m currently expanding my business acumen to lead cross-functional teams and scale data-driven initiatives globally."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Blessing Appiah – MBA Portfolio",
+    "section": "",
+    "text": "I’m Blessing Appiah, an MBA candidate with a strong foundation in business strategy, data-driven decision-making, and leadership. I bring a unique blend of professional experience in telecommunications regulation and a passion for tech-enabled solutions that drive impact.\nWith a background in engineering and public sector strategy, I thrive at the intersection of innovation, policy, and growth. I’m currently expanding my business acumen to lead cross-functional teams and scale data-driven initiatives globally."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Blessing Appiah – MBA Portfolio",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nMBA Candidate, [Your University Name]\nExpected Graduation: [Month, Year]\nBachelor of Science in [Your Undergraduate Major], [Undergrad University]\nGraduated: [Year]"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Blessing Appiah – MBA Portfolio",
+    "section": "💼 Professional Experience",
+    "text": "💼 Professional Experience\n[Current Job Title] – [Organization]\n[Location] | [Start Year] – Present\n- Lead national-level research and regulatory projects in the telecom sector\n- Spearheaded a 2024 post-election impact study with cross-functional teams\n- Integrated data analysis tools into spectrum monitoring systems\n[Previous Job Title] – [Previous Company]\n[Location] | [Start Year] – [End Year]\n- Delivered insights for decision-making in the public sector\n- Collaborated with technical teams to ensure quality of service compliance"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Blessing Appiah – MBA Portfolio",
+    "section": "🛠️ Skills",
+    "text": "🛠️ Skills\n\nStrategic Planning & Analysis\n\nPython, SQL, Excel (Advanced)\n\nData Visualization & Reporting (Power BI, Quarto)\n\nProject Management & Stakeholder Engagement\n\nRegulatory Policy & Telecom Standards"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Blessing Appiah – MBA Portfolio",
+    "section": "📬 Contact",
+    "text": "📬 Contact\n\n📧 Email: [yourname@email.com]\n\n💼 LinkedIn: linkedin.com/in/yourname\n\n🌐 Portfolio: https://junnnniorrr.github.io/mba-portfolio"
+  },
+  {
+    "objectID": "index.html#appendix-for-submission",
+    "href": "index.html#appendix-for-submission",
+    "title": "Blessing Appiah – MBA Portfolio",
+    "section": "📝 Appendix (for submission)",
+    "text": "📝 Appendix (for submission)\nThis portfolio was built with Quarto and refined using an initial LLM-generated draft via ChatGPT.\n- Initial outline and sample text provided by ChatGPT (see attached appendix file). - Final text was revised to reflect my voice, background, and aspirations."
   },
   {
     "objectID": "about.html",

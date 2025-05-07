@@ -1,31 +1,66 @@
 ---
-title: "Blessing – MBA Portfolio"
-format: html
+title: "Blessing Appiah – MBA Portfolio"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
 ---
 
-# About Me
-Short, authentic paragraph about your background and interests.
+## 👋 About Me
 
-# Education
-- **MBA**, ABC University (2024–2026)
-- **B.Sc. in Telecommunications Engineering**, DEF University (2016–2020)
+I’m **Blessing Appiah**, an MBA candidate with a strong foundation in business strategy, data-driven decision-making, and leadership. I bring a unique blend of professional experience in telecommunications regulation and a passion for tech-enabled solutions that drive impact.
 
-# Experience
-**Quality of Service Analyst**  
-National Communications Authority, Ghana (2021–Present)  
-- Leading spectrum analysis and quality monitoring across digital broadcast platforms
+With a background in engineering and public sector strategy, I thrive at the intersection of innovation, policy, and growth. I'm currently expanding my business acumen to lead cross-functional teams and scale data-driven initiatives globally.
 
-**Research Lead – NPP Election Project**  
-Nationwide Research, Ghana (2024)  
-- Designed methodology and led 12-person team to evaluate post-election sentiment
+---
 
-# Skills
-- Regulatory Analysis  
-- Python, Excel, Power BI  
-- Team Leadership  
-- Public Speaking  
-- Project Management
+## 🎓 Education
 
-# Contact
-📧 blessing@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/blessing-mba)  
+**MBA Candidate**, [Your University Name]  
+*Expected Graduation: [Month, Year]*
+
+**Bachelor of Science in [Your Undergraduate Major]**, [Undergrad University]  
+*Graduated: [Year]*
+
+---
+
+## 💼 Professional Experience
+
+**[Current Job Title] – [Organization]**  
+_[Location] | [Start Year] – Present_  
+- Lead national-level research and regulatory projects in the telecom sector  
+- Spearheaded a 2024 post-election impact study with cross-functional teams  
+- Integrated data analysis tools into spectrum monitoring systems  
+
+**[Previous Job Title] – [Previous Company]**  
+_[Location] | [Start Year] – [End Year]_  
+- Delivered insights for decision-making in the public sector  
+- Collaborated with technical teams to ensure quality of service compliance  
+
+---
+
+## 🛠️ Skills
+
+- Strategic Planning & Analysis  
+- Python, SQL, Excel (Advanced)  
+- Data Visualization & Reporting (Power BI, Quarto)  
+- Project Management & Stakeholder Engagement  
+- Regulatory Policy & Telecom Standards  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [yourname@email.com]  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 🌐 Portfolio: [https://junnnniorrr.github.io/mba-portfolio](https://junnnniorrr.github.io/mba-portfolio)
+
+---
+
+## 📝 Appendix (for submission)
+
+This portfolio was built with [Quarto](https://quarto.org) and refined using an initial LLM-generated draft via ChatGPT.  
+- Initial outline and sample text provided by ChatGPT (see attached appendix file).
+- Final text was revised to reflect my voice, background, and aspirations.
