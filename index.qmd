@@ -1,0 +1,31 @@
+---
+title: "Blessing – MBA Portfolio"
+format: html
+---
+
+# About Me
+Short, authentic paragraph about your background and interests.
+
+# Education
+- **MBA**, ABC University (2024–2026)
+- **B.Sc. in Telecommunications Engineering**, DEF University (2016–2020)
+
+# Experience
+**Quality of Service Analyst**  
+National Communications Authority, Ghana (2021–Present)  
+- Leading spectrum analysis and quality monitoring across digital broadcast platforms
+
+**Research Lead – NPP Election Project**  
+Nationwide Research, Ghana (2024)  
+- Designed methodology and led 12-person team to evaluate post-election sentiment
+
+# Skills
+- Regulatory Analysis  
+- Python, Excel, Power BI  
+- Team Leadership  
+- Public Speaking  
+- Project Management
+
+# Contact
+📧 blessing@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/blessing-mba)  
