@@ -8,9 +8,11 @@ format:
     page-layout: full
 ---
 
-## 👋 About Me
+<div class="content-container">
 
-I’m **Blessing Appiah**, an MBA candidate with a strong foundation in business strategy, data-driven decision-making, and leadership. I bring a unique blend of professional experience in telecommunications regulation and a passion for tech-enabled solutions that drive impact.
+## 👋 About Me {#about-me}
+
+I'm **Blessing Appiah**, an MBA candidate with a strong foundation in business strategy, data-driven decision-making, and leadership. I bring a unique blend of professional experience in telecommunications regulation and a passion for tech-enabled solutions that drive impact.
 
 With a background in engineering and public sector strategy, I thrive at the intersection of innovation, policy, and growth. I'm currently expanding my business acumen to lead cross-functional teams and scale data-driven initiatives globally.
 
@@ -18,49 +20,63 @@ With a background in engineering and public sector strategy, I thrive at the int
 
 ## 🎓 Education
 
+<div class="education-item">
 **MBA Candidate**, [Your University Name]  
 *Expected Graduation: [Month, Year]*
+</div>
 
+<div class="education-item">
 **Bachelor of Science in [Your Undergraduate Major]**, [Undergrad University]  
 *Graduated: [Year]*
+</div>
 
 ---
 
 ## 💼 Professional Experience
 
-**[Current Job Title] – [Organization]**  
-_[Location] | [Start Year] – Present_  
+<div class="experience-item">
+**[Current Job Title]** – [Organization]  
+*[Location] | [Start Year] – Present*  
+
 - Lead national-level research and regulatory projects in the telecom sector  
 - Spearheaded a 2024 post-election impact study with cross-functional teams  
 - Integrated data analysis tools into spectrum monitoring systems  
+</div>
 
-**[Previous Job Title] – [Previous Company]**  
-_[Location] | [Start Year] – [End Year]_  
+<div class="experience-item">
+**[Previous Job Title]** – [Previous Company]  
+*[Location] | [Start Year] – [End Year]*  
+
 - Delivered insights for decision-making in the public sector  
 - Collaborated with technical teams to ensure quality of service compliance  
+</div>
 
 ---
 
 ## 🛠️ Skills
 
-- Strategic Planning & Analysis  
-- Python, SQL, Excel (Advanced)  
-- Data Visualization & Reporting (Power BI, Quarto)  
-- Project Management & Stakeholder Engagement  
-- Regulatory Policy & Telecom Standards  
+<div id="skills">
+<span class="skill-tag">Strategic Planning & Analysis</span>
+<span class="skill-tag">Python</span>
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">Excel (Advanced)</span>
+<span class="skill-tag">Data Visualization & Reporting</span>
+<span class="skill-tag">Power BI</span>
+<span class="skill-tag">Quarto</span>
+<span class="skill-tag">Project Management</span>
+<span class="skill-tag">Stakeholder Engagement</span>
+<span class="skill-tag">Regulatory Policy</span>
+<span class="skill-tag">Telecom Standards</span>
+</div>
 
 ---
 
-## 📬 Contact
+## 📬 Contact {#contact}
 
-- 📧 Email: [yourname@email.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🌐 Portfolio: [https://junnnniorrr.github.io/mba-portfolio](https://junnnniorrr.github.io/mba-portfolio)
+<div class="contact-info">
+📧 Email: [yourname@email.com](mailto:yourname@email.com)  
+💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+🌐 Portfolio: [junnnniorrr.github.io/mba-portfolio](https://junnnniorrr.github.io/mba-portfolio)
+</div>
 
----
-
-## 📝 Appendix (for submission)
-
-This portfolio was built with [Quarto](https://quarto.org) and refined using an initial LLM-generated draft via ChatGPT.  
-- Initial outline and sample text provided by ChatGPT (see attached appendix file).
-- Final text was revised to reflect my voice, background, and aspirations.
+</div>
