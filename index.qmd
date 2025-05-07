@@ -1,5 +1,5 @@
 ---
-title: "Blessing Appiah – MBA Portfolio"
+title: "Akosua Anima Osei-Sempremoo"
 format:
   html:
     theme: cosmo
@@ -12,7 +12,7 @@ format:
 
 ## 👋 About Me {#about-me}
 
-I'm **Blessing Appiah**, an MBA candidate with a strong foundation in business strategy, data-driven decision-making, and leadership. I bring a unique blend of professional experience in telecommunications regulation and a passion for tech-enabled solutions that drive impact.
+I'm **Akosua Anima Osei-Sempremoo**, an MBA candidate with a strong foundation in business strategy, data-driven decision-making, and leadership. I bring a unique blend of professional experience in telecommunications regulation and a passion for tech-enabled solutions that drive impact.
 
 With a background in engineering and public sector strategy, I thrive at the intersection of innovation, policy, and growth. I'm currently expanding my business acumen to lead cross-functional teams and scale data-driven initiatives globally.
 
@@ -21,7 +21,7 @@ With a background in engineering and public sector strategy, I thrive at the int
 ## 🎓 Education
 
 <div class="education-item">
-**MBA Candidate**, [Your University Name]  
+**MBA Candidate**,  University Canada West  
 *Expected Graduation: [Month, Year]*
 </div>
 
