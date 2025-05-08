@@ -12,9 +12,9 @@ format:
 
 ## 👋 About Me {#about-me}
 
-I'm **Akosua Anima Osei-Sempremoo**, an MBA candidate with a strong foundation in business strategy, data-driven decision-making, and leadership. I bring a unique blend of professional experience in telecommunications regulation and a passion for tech-enabled solutions that drive impact.
+I'm **Akosua Anima Osei-Sempremoo**, an MBA candidate with a strong foundation in finance, accounting, and business development. I bring a unique blend of professional experience in financial management, sales strategy, and regulatory compliance to drive organizational success.
 
-With a background in engineering and public sector strategy, I thrive at the intersection of innovation, policy, and growth. I'm currently expanding my business acumen to lead cross-functional teams and scale data-driven initiatives globally.
+With extensive experience in financial consulting and sales management, I've developed expertise in financial analysis, customer relationship management, and strategic planning. I'm currently expanding my business acumen through my MBA studies to further enhance my leadership capabilities and pursue my career goals in financial management.
 
 ---
 
@@ -22,12 +22,17 @@ With a background in engineering and public sector strategy, I thrive at the int
 
 <div class="education-item">
 **MBA Candidate**,  University Canada West  
-*Expected Graduation: [Month, Year]*
+*Expected Graduation: 2025*
 </div>
 
 <div class="education-item">
-**Bachelor of Science in [Your Undergraduate Major]**, [Undergrad University]  
-*Graduated: [Year]*
+**B.Sc. Business Administration (Accounting)**, Kwame Nkrumah University of Science and Technology  
+*Graduated: 2021*
+</div>
+
+<div class="education-item">
+**HND in Accounting**, Accra Technical University  
+*Graduated: 2016*
 </div>
 
 ---
@@ -35,20 +40,64 @@ With a background in engineering and public sector strategy, I thrive at the int
 ## 💼 Professional Experience
 
 <div class="experience-item">
-**[Current Job Title]** – [Organization]  
-*[Location] | [Start Year] – Present*  
+**Junior Finance Consultant** – The Receivership of 347 Microfinance Institutions (PwC)  
+*Ghana | July 2019 – August 2023*  
 
-- Lead national-level research and regulatory projects in the telecom sector  
-- Spearheaded a 2024 post-election impact study with cross-functional teams  
-- Integrated data analysis tools into spectrum monitoring systems  
+- Oversaw and supervised financial transactions, ensuring accuracy and compliance with internal and regulatory guidelines
+- Monitored and projected organizational cash flow to ensure resource adequacy for operations and long-term stability
+- Prepared payment vouchers and memos for all expenditures, streamlining payment processes
+- Compiled comprehensive schedules for utilities and expenses across operating branches for effective budget management
+- Updated the cashbook with daily financial entries for accurate and timely financial reporting
+- Ensured compliance with relevant laws, regulations, and standards to minimize legal and financial risks
+- Served as liaison between finance department and other organizational units
+- Provided financial management support for projects, including budgeting, forecasting, and analysis
 </div>
 
 <div class="experience-item">
-**[Previous Job Title]** – [Previous Company]  
-*[Location] | [Start Year] – [End Year]*  
+**Sales and Marketing Manager** – Ataa Maame Enterprise  
+*Accra, Ghana | January 2020 – June 2023*  
 
-- Delivered insights for decision-making in the public sector  
-- Collaborated with technical teams to ensure quality of service compliance  
+- Developed and implemented comprehensive sales and marketing strategies aligned with business objectives
+- Established and maintained relationships with suppliers and industry partners to explore new commercial ventures
+- Created and preserved strong relationships with existing and new customers
+- Managed sales and marketing budgets to ensure effective resource allocation for maximum ROI
+- Provided excellent customer service by assessing customer needs to recommend appropriate products
+- Managed store displays and merchandising to enhance product visibility and sales
+</div>
+
+<div class="experience-item">
+**Trade Promoter, Sales** – Guinness Ghana Brewery PLC (Diageo)  
+*Accra, Ghana | September 2016 – September 2017*  
+
+- Led product promotions by developing and implementing strategies within target markets
+- Managed daily, weekly, and monthly sales reports, setting and achieving sales targets
+- Conducted thorough audits of sales transactions to ensure accuracy and integrity
+- Produced comprehensive weekly, monthly, and quarterly performance reports
+- Cultivated enduring relationships with diverse high-net-worth clients
+- Conducted market research to understand customer preferences and market trends
+- Engaged with existing and potential customers to introduce Guinness products
+- Collaborated with retailers and distributors to ensure product visibility and adequate supply
+</div>
+
+<div class="experience-item">
+**Intern (Audit)** – The Registrar General Department  
+*Ghana | June 2015 – August 2015*  
+
+- Assisted in examining and validating financial and administrative documents
+- Input financial data into auditing systems and helped with preliminary data analysis
+- Provided administrative assistance to the audit team, including scheduling and documentation
+- Drafted memorandums and maintained audit files
+</div>
+
+<div class="experience-item">
+**Intern (Accounting)** – Forestry Commission Ghana  
+*Ghana | June 2014 – August 2014*  
+
+- Assisted in recording financial transactions from invoices, receipts, and other documents
+- Contributed to the preparation of basic financial statements under senior guidance
+- Managed financial documents, including filing and organizing accounting records
+- Assisted in monitoring operational expenses and preparing expenditure reports
+- Supported internal audits by gathering necessary documents and verification of records
 </div>
 
 ---
@@ -56,17 +105,22 @@ With a background in engineering and public sector strategy, I thrive at the int
 ## 🛠️ Skills
 
 <div id="skills">
-<span class="skill-tag">Strategic Planning & Analysis</span>
-<span class="skill-tag">Python</span>
-<span class="skill-tag">SQL</span>
-<span class="skill-tag">Excel (Advanced)</span>
-<span class="skill-tag">Data Visualization & Reporting</span>
-<span class="skill-tag">Power BI</span>
-<span class="skill-tag">Quarto</span>
 <span class="skill-tag">Project Management</span>
-<span class="skill-tag">Stakeholder Engagement</span>
-<span class="skill-tag">Regulatory Policy</span>
-<span class="skill-tag">Telecom Standards</span>
+<span class="skill-tag">Strategic Analysis</span>
+<span class="skill-tag">Data Visualization (Excel, Power BI)</span>
+<span class="skill-tag">Communication & Leadership</span>
+<span class="skill-tag">Financial Analysis and Reporting</span>
+<span class="skill-tag">Data Processing and Management</span>
+<span class="skill-tag">Attention to Detail</span>
+<span class="skill-tag">Regulatory Compliance</span>
+<span class="skill-tag">Relationship Management</span>
+<span class="skill-tag">Confidentiality & Ethics</span>
+<span class="skill-tag">Documentation</span>
+<span class="skill-tag">Team Collaboration</span>
+<span class="skill-tag">Customer Service</span>
+<span class="skill-tag">Sales & Product Promotion</span>
+<span class="skill-tag">Problem-solving</span>
+<span class="skill-tag">Financial Management</span>
 </div>
 
 ---
@@ -74,9 +128,11 @@ With a background in engineering and public sector strategy, I thrive at the int
 ## 📬 Contact {#contact}
 
 <div class="contact-info">
-📧 Email: [yourname@email.com](mailto:yourname@email.com)  
-💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-🌐 Portfolio: [junnnniorrr.github.io/mba-portfolio](https://junnnniorrr.github.io/mba-portfolio)
+📧 Email: [akosua.animaosei@gmail.com](mailto:akosua.animaosei@gmail.com)  
+<!--💼 LinkedIn: [linkedin.com/in/akosua-anima-osei-sempremoo](https://linkedin.com/in/akosua-anima-osei-sempremoo)-->
+📱 Phone: +233 20 658 3994
+
+
 </div>
 
 </div>
