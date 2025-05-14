@@ -1,5 +1,6 @@
 ---
 title: "Akosua Anima Osei-Sempremoo"
+subtitle: "MBA Candidate | Financial Management Professional"
 format:
   html:
     theme: cosmo
@@ -8,131 +9,61 @@ format:
     page-layout: full
 ---
 
-<div class="content-container">
+::: {.hero-section}
+![Akosua Anima Osei-Sempremoo](images/i.jpg){.profile-image}
 
-## 👋 About Me {#about-me}
+# Welcome to My Professional Portfolio
 
-I'm **Akosua Anima Osei-Sempremoo**, an MBA candidate with a strong foundation in finance, accounting, and business development. I bring a unique blend of professional experience in financial management, sales strategy, and regulatory compliance to drive organizational success.
+I'm an MBA candidate with expertise in financial management, accounting, and business development. With a background spanning financial consulting, sales strategy, and regulatory compliance, I bring a unique perspective to driving organizational success.
 
-With extensive experience in financial consulting and sales management, I've developed expertise in financial analysis, customer relationship management, and strategic planning. I'm currently expanding my business acumen through my MBA studies to further enhance my leadership capabilities and pursue my career goals in financial management.
+[Learn More About Me](/about.html){.btn-primary} [View My Resume](/resume.html){.btn-secondary}
+:::
 
----
+::: {.highlights-section}
+## Professional Highlights
 
-## 🎓 Education
+::: {.highlight-card}
+### Financial Expertise
+Strong foundation in financial analysis, reporting, and compliance with experience at PwC and other organizations.
+:::
 
-<div class="education-item">
-**MBA Candidate**,  University Canada West  
-*Expected Graduation: 2025*
-</div>
+::: {.highlight-card}
+### Strategic Leadership
+Proven track record in sales management and strategic planning to drive business growth and operational efficiency.
+:::
 
-<div class="education-item">
-**B.Sc. Business Administration (Accounting)**, Kwame Nkrumah University of Science and Technology  
-*Graduated: 2021*
-</div>
+::: {.highlight-card}
+### Global Perspective
+International experience and education across Ghana and Canada, bringing diverse insights to business challenges.
+:::
+:::
 
-<div class="education-item">
-**HND in Accounting**, Accra Technical University  
-*Graduated: 2016*
-</div>
+::: {.featured-projects}
+## Featured Projects
 
----
+::: {.project-card}
+### Financial Recovery Strategy
+Led financial transaction oversight for microfinance institutions, ensuring regulatory compliance and operational stability.
+[View Project](/projects.html#financial-recovery){.project-link}
+:::
 
-## 💼 Professional Experience
+::: {.project-card}
+### Sales Growth Initiative
+Developed comprehensive sales strategies that increased market penetration and customer retention at Ataa Maame Enterprise.
+[View Project](/projects.html#sales-growth){.project-link}
+:::
 
-<div class="experience-item">
-**Junior Finance Consultant** – The Receivership of 347 Microfinance Institutions (PwC)  
-*Ghana | July 2019 – August 2023*  
+::: {.project-card}
+### Market Expansion Analysis
+Conducted market research and analysis to identify new opportunities for Guinness Ghana Brewery products.
+[View Project](/projects.html#market-expansion){.project-link}
+:::
+:::
 
-- Oversaw and supervised financial transactions, ensuring accuracy and compliance with internal and regulatory guidelines
-- Monitored and projected organizational cash flow to ensure resource adequacy for operations and long-term stability
-- Prepared payment vouchers and memos for all expenditures, streamlining payment processes
-- Compiled comprehensive schedules for utilities and expenses across operating branches for effective budget management
-- Updated the cashbook with daily financial entries for accurate and timely financial reporting
-- Ensured compliance with relevant laws, regulations, and standards to minimize legal and financial risks
-- Served as liaison between finance department and other organizational units
-- Provided financial management support for projects, including budgeting, forecasting, and analysis
-</div>
+::: {.cta-section}
+## Let's Connect
 
-<div class="experience-item">
-**Sales and Marketing Manager** – Ataa Maame Enterprise  
-*Accra, Ghana | January 2020 – June 2023*  
+I'm always open to discussing new opportunities, collaborations, or just connecting with fellow professionals.
 
-- Developed and implemented comprehensive sales and marketing strategies aligned with business objectives
-- Established and maintained relationships with suppliers and industry partners to explore new commercial ventures
-- Created and preserved strong relationships with existing and new customers
-- Managed sales and marketing budgets to ensure effective resource allocation for maximum ROI
-- Provided excellent customer service by assessing customer needs to recommend appropriate products
-- Managed store displays and merchandising to enhance product visibility and sales
-</div>
-
-<div class="experience-item">
-**Trade Promoter, Sales** – Guinness Ghana Brewery PLC (Diageo)  
-*Accra, Ghana | September 2016 – September 2017*  
-
-- Led product promotions by developing and implementing strategies within target markets
-- Managed daily, weekly, and monthly sales reports, setting and achieving sales targets
-- Conducted thorough audits of sales transactions to ensure accuracy and integrity
-- Produced comprehensive weekly, monthly, and quarterly performance reports
-- Cultivated enduring relationships with diverse high-net-worth clients
-- Conducted market research to understand customer preferences and market trends
-- Engaged with existing and potential customers to introduce Guinness products
-- Collaborated with retailers and distributors to ensure product visibility and adequate supply
-</div>
-
-<div class="experience-item">
-**Intern (Audit)** – The Registrar General Department  
-*Ghana | June 2015 – August 2015*  
-
-- Assisted in examining and validating financial and administrative documents
-- Input financial data into auditing systems and helped with preliminary data analysis
-- Provided administrative assistance to the audit team, including scheduling and documentation
-- Drafted memorandums and maintained audit files
-</div>
-
-<div class="experience-item">
-**Intern (Accounting)** – Forestry Commission Ghana  
-*Ghana | June 2014 – August 2014*  
-
-- Assisted in recording financial transactions from invoices, receipts, and other documents
-- Contributed to the preparation of basic financial statements under senior guidance
-- Managed financial documents, including filing and organizing accounting records
-- Assisted in monitoring operational expenses and preparing expenditure reports
-- Supported internal audits by gathering necessary documents and verification of records
-</div>
-
----
-
-## 🛠️ Skills
-
-<div id="skills">
-<span class="skill-tag">Project Management</span>
-<span class="skill-tag">Strategic Analysis</span>
-<span class="skill-tag">Data Visualization (Excel, Power BI)</span>
-<span class="skill-tag">Communication & Leadership</span>
-<span class="skill-tag">Financial Analysis and Reporting</span>
-<span class="skill-tag">Data Processing and Management</span>
-<span class="skill-tag">Attention to Detail</span>
-<span class="skill-tag">Regulatory Compliance</span>
-<span class="skill-tag">Relationship Management</span>
-<span class="skill-tag">Confidentiality & Ethics</span>
-<span class="skill-tag">Documentation</span>
-<span class="skill-tag">Team Collaboration</span>
-<span class="skill-tag">Customer Service</span>
-<span class="skill-tag">Sales & Product Promotion</span>
-<span class="skill-tag">Problem-solving</span>
-<span class="skill-tag">Financial Management</span>
-</div>
-
----
-
-## 📬 Contact {#contact}
-
-<div class="contact-info">
-📧 Email: [akosua.animaosei@gmail.com](mailto:akosua.animaosei@gmail.com)  
-<!--💼 LinkedIn: [linkedin.com/in/akosua-anima-osei-sempremoo](https://linkedin.com/in/akosua-anima-osei-sempremoo)-->
-📱 Phone: +233 20 658 3994 / +17787233994
-
-
-</div>
-
-</div>
+[Contact Me](/contact.html){.btn-primary}
+:::

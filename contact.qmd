@@ -1,0 +1,40 @@
+---
+title: "Contact Me"
+subtitle: "Let's Connect"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+---
+
+::: {.contact-container}
+## Get In Touch
+
+I'm always open to discussing new opportunities, collaborations, or just connecting with fellow professionals. Feel free to reach out through any of the channels below.
+
+### Contact Information
+
+::: {.contact-info}
+**Email:** [akosua.animaosei@gmail.com](mailto:akosua.animaosei@gmail.com)
+
+**Phone:** 
+- Ghana: +233 20 658 3994
+- Canada: +1 778 723 3994
+
+**Location:** 
+Currently based in Vancouver, Canada
+:::
+
+### Connect With Me
+
+::: {.social-links .circular}
+<a href="https://www.linkedin.com/in/akosua-anima-osei-sempremoo-917983197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="social-link" target="_blank" aria-label="LinkedIn Profile">
+  <i class="fab fa-linkedin-in"></i>
+</a>
+
+<a href="https://github.com/Akosua-Anima" class="social-link" target="_blank" aria-label="GitHub Profile">
+  <i class="fab fa-github"></i>
+</a>
+:::

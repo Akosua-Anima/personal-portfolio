@@ -1,0 +1,18 @@
+---
+title: "Appendix"
+subtitle: "LLM Drafts and Revisions"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+---
+
+## Introduction
+
+This appendix documents the LLM-generated site map and section drafts used as the foundation for my multi-page MBA portfolio website. Each section includes the original LLM output and annotations describing my revisions and customizations.
+
+## Initial Site Map
+
+### Original LLM Output

@@ -1,11 +1,52 @@
 ---
-title: "About"
+title: "About Me"
+subtitle: "My Professional Journey"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
 ---
 
- 
+## Professional Summary
 
-I'm **Akosua Anima Osei-Sempremoo**, an MBA candidate with a strong foundation in finance, accounting, and business development. I bring a unique blend of professional experience in financial management, sales strategy, and regulatory compliance to drive organizational success.
+I am **Akosua Anima Osei-Sempremoo**, an MBA candidate with a passion for financial management and business strategy. My professional journey spans multiple sectors including financial consulting, sales management, and regulatory compliance, giving me a well-rounded perspective on business operations and financial oversight.
 
-With extensive experience in financial consulting and sales management, I've developed expertise in financial analysis, customer relationship management, and strategic planning. I'm currently expanding my business acumen through my MBA studies to further enhance my leadership capabilities and pursue my career goals in financial management.
+With over 7 years of experience in finance and business development, I've developed a keen eye for identifying operational inefficiencies and implementing strategic solutions that drive organizational success. My approach combines analytical rigor with creative problem-solving to deliver sustainable results.
 
----
+## My Story
+
+My journey into the world of finance and business began with a curiosity about how organizations create and manage value. Growing up in Ghana, I witnessed firsthand the transformative power of sound financial management in both small enterprises and large corporations.
+
+This curiosity led me to pursue formal education in accounting and business administration, where I developed a strong foundation in financial principles and business operations. My early professional experiences at the Forestry Commission and Registrar General Department in Ghana provided practical insights into public sector financial management and regulatory compliance.
+
+The pivotal moment in my career came when I joined Guinness Ghana Brewery PLC (Diageo) as a Trade Promoter. This role exposed me to the dynamic world of consumer goods marketing and sales strategy, teaching me valuable lessons about market dynamics, consumer behavior, and strategic positioning.
+
+My subsequent roles in sales management at Ataa Maame Enterprise and financial consulting with PwC further expanded my expertise, allowing me to develop comprehensive skills in financial analysis, strategic planning, and operational management.
+
+## Professional Philosophy
+
+I believe in:
+
+- **Data-Driven Decision Making**: Leveraging financial and market data to inform strategic decisions
+- **Ethical Leadership**: Maintaining the highest standards of integrity and transparency in all business dealings
+- **Continuous Learning**: Constantly expanding my knowledge and skills to adapt to evolving business landscapes
+- **Collaborative Success**: Building strong relationships and fostering teamwork to achieve collective goals
+
+## Current Focus
+
+Currently, I'm expanding my business acumen through MBA studies at University Canada West, focusing on advanced financial management, strategic leadership, and global business operations. My goal is to leverage this education to take on more challenging leadership roles in financial management and strategic planning.
+
+## Beyond Work
+
+Outside of my professional pursuits, I enjoy:
+
+- Exploring financial markets and investment strategies
+- Mentoring young professionals in finance and accounting
+- Participating in community development initiatives
+- Traveling and experiencing diverse cultures and business environments
+
+## Let's Connect
+
+I'm always open to connecting with fellow professionals, discussing potential collaborations, or exploring new opportunities. Feel free to [reach out](/contact.html) to start a conversation.

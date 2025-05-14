@@ -6,6 +6,22 @@
     "index.html": "d846ee34"
   },
   "appendix.qmd": {
-    "appendix.tex": "3c925329"
+    "appendix.tex": "3c925329",
+    "appendix.html": "8e22ab0e"
+  },
+  "contact.qmd": {
+    "contact.html": "c317273e"
+  },
+  "projects.qmd": {
+    "projects.html": "c7cb5f70"
+  },
+  "reflection.qmd": {
+    "reflection.html": "2fb22919"
+  },
+  "resume.qmd": {
+    "resume.html": "37a8770b"
+  },
+  "skills.qmd": {
+    "skills.html": "d4e8b74f"
   }
 }

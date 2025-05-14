@@ -1,0 +1,214 @@
+---
+title: "Projects & Case Studies"
+subtitle: "Showcasing My Professional Achievements"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+---
+
+## Overview
+
+This page highlights key projects and initiatives I've led throughout my professional career. Each case study demonstrates my approach to problem-solving, strategic thinking, and delivering measurable results.
+
+## Financial Management Projects {#financial-recovery}
+
+### Financial Recovery Strategy for Microfinance Institutions
+*The Receivership of 347 Microfinance Institutions (PwC) | 2020-2023*
+
+::: {.project-card}
+#### Challenge
+Following the financial sector cleanup in Ghana, 347 microfinance institutions required comprehensive financial oversight to ensure proper asset recovery and creditor settlements.
+
+#### Approach
+- Implemented robust financial transaction monitoring systems across multiple branches
+- Developed standardized procedures for expense management and financial reporting
+- Created comprehensive cash flow projection models to ensure operational stability
+- Established cross-departmental communication protocols to streamline financial operations
+
+#### Results
+- Achieved 95% accuracy in financial reporting across all managed institutions
+- Reduced operational expenses by 22% through efficient resource allocation
+- Ensured 100% compliance with regulatory requirements, avoiding penalties
+- Improved cash flow visibility, enabling better decision-making for receivership management
+
+#### Skills Demonstrated
+- Financial oversight and compliance
+- Cash flow management
+- Expense optimization
+- Cross-functional collaboration
+:::
+
+### Budget Optimization Initiative
+*Internal Project, PwC | 2021-2022*
+
+::: {.project-card}
+#### Challenge
+Operating branches faced inconsistent budget management practices, leading to resource inefficiencies and reporting discrepancies.
+
+#### Approach
+- Analyzed historical expense patterns across all operating branches
+- Developed standardized utility and expense tracking templates
+- Implemented centralized budget monitoring system
+- Trained branch managers on effective budget management practices
+
+#### Results
+- Standardized expense reporting across all branches
+- Reduced utility costs by 18% through better monitoring and management
+- Improved budget forecasting accuracy by 30%
+- Created transparent financial reporting structure for stakeholders
+
+#### Skills Demonstrated
+- Budget analysis and optimization
+- Process standardization
+- Financial training and knowledge transfer
+- Resource allocation
+:::
+
+## Sales & Marketing Projects {#sales-growth}
+
+### Sales Growth Initiative
+*Ataa Maame Enterprise | 2020-2022*
+
+::: {.project-card}
+#### Challenge
+The business faced increasing competition and needed to expand market share while improving customer retention.
+
+#### Approach
+- Conducted comprehensive market analysis to identify growth opportunities
+- Developed targeted marketing campaigns for different customer segments
+- Implemented customer loyalty program to improve retention
+- Established strategic partnerships with key suppliers to enhance product offerings
+
+#### Results
+- Increased overall sales by 35% over two years
+- Improved customer retention rate by 40%
+- Expanded product range by 25% through new supplier relationships
+- Reduced marketing costs by 15% while achieving higher conversion rates
+
+#### Skills Demonstrated
+- Strategic planning
+- Market analysis
+- Customer relationship management
+- Partnership development
+:::
+
+### Store Merchandising Redesign
+*Ataa Maame Enterprise | 2021*
+
+::: {.project-card}
+#### Challenge
+Product visibility and store layout were suboptimal, affecting customer experience and sales performance.
+
+#### Approach
+- Analyzed customer traffic patterns and purchasing behavior
+- Redesigned store layout to improve product visibility and customer flow
+- Implemented strategic product placement based on margin and popularity
+- Created eye-catching displays for promotional items
+
+#### Results
+- Increased impulse purchases by 30%
+- Improved overall store sales by 22%
+- Enhanced customer satisfaction scores by 25%
+- Reduced time spent by customers searching for products
+
+#### Skills Demonstrated
+- Retail space optimization
+- Consumer behavior analysis
+- Visual merchandising
+- Sales strategy
+:::
+
+## Market Research Projects {#market-expansion}
+
+### Market Expansion Analysis
+*Guinness Ghana Brewery PLC (Diageo) | 2017*
+
+::: {.project-card}
+#### Challenge
+The company needed to identify new market opportunities and optimize distribution channels for Guinness products.
+
+#### Approach
+- Conducted comprehensive market research across different regions
+- Analyzed consumer preferences and purchasing patterns
+- Evaluated existing distribution networks for efficiency
+- Identified underserved market segments with growth potential
+
+#### Results
+- Identified three new viable market segments for targeted marketing
+- Developed distribution optimization strategy that reduced costs by 12%
+- Created customer profile database to inform future product development
+- Provided actionable insights that informed regional marketing strategies
+
+#### Skills Demonstrated
+- Market research and analysis
+- Consumer behavior understanding
+- Distribution channel optimization
+- Strategic planning
+:::
+
+### Sales Performance Analytics
+*Guinness Ghana Brewery PLC (Diageo) | 2016-2017*
+
+::: {.project-card}
+#### Challenge
+Sales reporting was inconsistent, making it difficult to identify trends and opportunities for improvement.
+
+#### Approach
+- Developed standardized sales reporting templates
+- Implemented weekly, monthly, and quarterly reporting cycles
+- Created visualization dashboards for key performance indicators
+- Established performance benchmarks for different market segments
+
+#### Results
+- Improved sales data accuracy by 40%
+- Enabled data-driven decision making for product promotions
+- Identified seasonal trends that informed inventory management
+- Provided clear performance metrics that motivated sales team
+
+#### Skills Demonstrated
+- Data analysis and reporting
+- Performance measurement
+- Trend identification
+- Strategic decision support
+:::
+
+## Academic Projects
+
+### Financial Management System Analysis
+*MBA Program, University Canada West | 2023*
+
+::: {.project-card}
+#### Challenge
+Analyze the effectiveness of financial management systems in mid-sized enterprises and propose improvements.
+
+#### Approach
+- Conducted literature review on best practices in financial management
+- Analyzed case studies of successful financial system implementations
+- Developed evaluation framework for assessing system effectiveness
+- Created implementation roadmap for system improvements
+
+#### Results
+- Comprehensive analysis report with actionable recommendations
+- Identified key success factors for financial system implementation
+- Developed cost-benefit analysis framework for system upgrades
+- Created change management strategy for system transitions
+
+#### Skills Demonstrated
+- Academic research
+- Critical analysis
+- Financial systems knowledge
+- Strategic planning
+:::
+
+## Future Projects
+
+I'm currently developing several new initiatives:
+
+- **ESG Financial Reporting Framework**: Developing guidelines for integrating environmental, social, and governance factors into financial reporting
+- **Digital Transformation in Financial Management**: Researching the impact of digital technologies on financial processes and controls
+- **Cross-Border Financial Operations**: Analyzing challenges and opportunities in managing financial operations across multiple jurisdictions
+
+[Contact me](/contact.html) if you'd like to discuss any of these projects or potential collaborations.

@@ -1,0 +1,144 @@
+---
+title: "Professional Resume"
+subtitle: "Education, Experience, and Qualifications"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+---
+
+::: {.resume-header}
+# Akosua Anima Osei-Sempremoo
+MBA Candidate | Financial Management Professional
+
+[akosua.animaosei@gmail.com](mailto:akosua.animaosei@gmail.com) | +233 20 658 3994 / +17787233994
+
+[Download Full Resume (PDF)](files/Akosua%20Anima_Resume.pdf){.resume-download-btn}
+:::
+
+## Education
+
+::: {.education-entry}
+### MBA
+**University Canada West**  
+*Expected Graduation: 2025*
+
+Focusing on advanced financial management, strategic leadership, and global business operations.
+:::
+
+::: {.education-entry}
+### B.Sc. Business Administration (Accounting)
+**Kwame Nkrumah University of Science and Technology**  
+*Graduated: 2021*
+
+Developed comprehensive knowledge in accounting principles, financial analysis, and business management.
+:::
+
+::: {.education-entry}
+### HND in Accounting
+**Accra Technical University**  
+*Graduated: 2016*
+
+Established strong foundation in accounting practices, financial reporting, and business operations.
+:::
+
+## Professional Experience
+
+::: {.experience-entry}
+### Junior Finance Consultant
+**The Receivership of 347 Microfinance Institutions (PwC)**  
+*Ghana | July 2019 – August 2023*
+
+- **Financial Oversight**: Supervised financial transactions ensuring 100% compliance with regulatory guidelines
+- **Cash Flow Management**: Monitored and projected organizational cash flow, maintaining operational liquidity
+- **Expense Management**: Compiled comprehensive schedules for utilities and expenses across multiple branches, optimizing budget allocation by 15%
+- **Financial Reporting**: Maintained accurate daily financial entries, reducing reporting errors by 30%
+- **Regulatory Compliance**: Ensured adherence to all relevant financial regulations, preventing compliance issues
+- **Cross-Functional Collaboration**: Served as liaison between finance department and other organizational units, improving interdepartmental communication efficiency by 25%
+- **Project Support**: Provided financial management for multiple projects, including budgeting and forecasting
+:::
+
+::: {.experience-entry}
+### Sales and Marketing Manager
+**Ataa Maame Enterprise**  
+*Accra, Ghana | January 2020 – June 2023*
+
+- **Strategic Planning**: Developed and implemented sales strategies that increased revenue by 35% over three years
+- **Relationship Management**: Established and maintained partnerships with key suppliers, reducing supply chain costs by 20%
+- **Customer Retention**: Created loyalty programs that improved customer retention rates by 40%
+- **Budget Management**: Optimized marketing budget allocation, achieving 25% higher ROI on marketing investments
+- **Merchandising**: Redesigned store displays, increasing product visibility and impulse purchases by 30%
+:::
+
+::: {.experience-entry}
+### Trade Promoter, Sales
+**Guinness Ghana Brewery PLC (Diageo)**  
+*Accra, Ghana | September 2016 – September 2017*
+
+- **Sales Strategy**: Led product promotions that exceeded sales targets by 15% consistently
+- **Performance Reporting**: Produced comprehensive weekly, monthly, and quarterly reports for management decision-making
+- **Client Relationship**: Cultivated relationships with high-net-worth clients, increasing premium product sales by 25%
+- **Market Research**: Conducted analysis of customer preferences, identifying three new market segments
+- **Distribution Management**: Collaborated with retailers to ensure optimal product placement, increasing visibility by 40%
+:::
+
+::: {.experience-entry}
+### Intern (Audit)
+**The Registrar General Department**  
+*Ghana | June 2015 – August 2015*
+
+- Assisted in examining and validating financial documents, contributing to audit efficiency
+- Supported data entry and preliminary analysis for departmental audits
+- Maintained organized audit files and documentation systems
+:::
+
+::: {.experience-entry}
+### Intern (Accounting)
+**Forestry Commission Ghana**  
+*Ghana | June 2014 – August 2014*
+
+- Assisted in recording financial transactions and preparing basic financial statements
+- Supported expense monitoring and reporting processes
+- Contributed to internal audit preparation and document verification
+:::
+
+## Skills
+
+::: {.skills-section}
+### Technical Skills
+- Financial Analysis and Reporting
+- Regulatory Compliance
+- Data Visualization (Excel, Power BI)
+- Budget Management
+- Sales Strategy Development
+- Market Research and Analysis
+- Project Management
+- Documentation and Reporting
+
+### Soft Skills
+- Strategic Leadership
+- Communication and Presentation
+- Relationship Management
+- Problem-solving
+- Attention to Detail
+- Team Collaboration
+- Ethical Decision Making
+- Adaptability
+:::
+
+## Certifications
+
+::: {.certification-entry}
+- **Financial Management Certification** (In Progress)
+- **Excel Advanced Data Analysis** (2022)
+- **Business Ethics and Compliance** (2021)
+:::
+
+## Languages
+
+::: {.language-section}
+- **English**: Professional Proficiency
+- **Twi**: Native Proficiency
+:::
