@@ -10,7 +10,7 @@ format:
 ---
 
 ::: {.hero-section}
-![Akosua Anima Osei-Sempremoo](images/my.jpg){.profile-image}
+![Akosua Anima Osei-Sempremoo](images/y.jpg){.profile-image}
 
 # Welcome to My Professional Portfolio
 
