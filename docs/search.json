@@ -49,102 +49,67 @@
     "text": "Continuous Learning\nI’m committed to ongoing professional development and am currently enhancing my skills in:\n\nAdvanced financial modeling and analysis\nStrategic leadership and management\nGlobal business operations\nDigital transformation in finance\nData-driven decision making\n\nI welcome opportunities to apply these skills to new challenges and continue developing my expertise. Contact me to discuss how my capabilities can benefit your organization.No code was selected, so I will provide a code snippet that can be inserted at the cursor position to improve the existing code. This code adds a new skill category for “Digital Transformation” and includes a brief description and proficiency level."
   },
   {
-    "objectID": "reflection.html",
-    "href": "reflection.html",
-    "title": "Reflection on LLM Use",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
     "section": "",
-    "text": "This reflection documents my journey of expanding my single-page portfolio into a comprehensive multi-page website using Quarto and Large Language Models (LLMs). The process has been both challenging and enlightening, offering valuable insights into the effective use of AI tools for content creation while maintaining authenticity and accuracy."
+    "text": "This page highlights key projects and initiatives I’ve led throughout my professional career. Each case study demonstrates my approach to problem-solving, strategic thinking, and delivering measurable results."
   },
   {
-    "objectID": "reflection.html#introduction",
-    "href": "reflection.html#introduction",
-    "title": "Reflection on LLM Use",
+    "objectID": "projects.html#overview",
+    "href": "projects.html#overview",
+    "title": "Projects & Case Studies",
     "section": "",
-    "text": "This reflection documents my journey of expanding my single-page portfolio into a comprehensive multi-page website using Quarto and Large Language Models (LLMs). The process has been both challenging and enlightening, offering valuable insights into the effective use of AI tools for content creation while maintaining authenticity and accuracy."
+    "text": "This page highlights key projects and initiatives I’ve led throughout my professional career. Each case study demonstrates my approach to problem-solving, strategic thinking, and delivering measurable results."
   },
   {
-    "objectID": "reflection.html#evolution-of-my-llm-usage",
-    "href": "reflection.html#evolution-of-my-llm-usage",
-    "title": "Reflection on LLM Use",
-    "section": "Evolution of My LLM Usage",
-    "text": "Evolution of My LLM Usage\n\nWhat Worked Better with Multi-Page Development\nMore Specific Prompting: As I expanded to multiple pages, I found that providing more structured and specific prompts to the LLM yielded significantly better results. Rather than asking for general content for an entire site, breaking down requests by page type and specific sections allowed for more tailored and relevant outputs.\nIterative Refinement: The multi-page approach enabled a more iterative process with the LLM. I could focus on refining one page at a time, providing feedback on generated content, and requesting specific adjustments. This iterative dialogue with the LLM produced progressively better content that more accurately reflected my experience and voice.\nTemplate-Based Approach: I discovered that having the LLM generate structural templates for each page type first, then filling in specific content in subsequent interactions, created more consistent and well-organized pages. This approach helped maintain a cohesive design language across the entire site while allowing for page-specific customization.\nContent Integration: The multi-page format allowed me to better integrate related content across pages through internal linking and consistent terminology. I could prompt the LLM to suggest natural connection points between pages, creating a more cohesive user experience."
+    "objectID": "projects.html#financial-recovery",
+    "href": "projects.html#financial-recovery",
+    "title": "Projects & Case Studies",
+    "section": "Financial Management Projects",
+    "text": "Financial Management Projects\n\nFinancial Recovery Strategy for Microfinance Institutions\nThe Receivership of 347 Microfinance Institutions (PwC) | 2020-2023\n\n\nChallenge\nFollowing the financial sector cleanup in Ghana, 347 microfinance institutions required comprehensive financial oversight to ensure proper asset recovery and creditor settlements.\n\n\nApproach\n\nImplemented robust financial transaction monitoring systems across multiple branches\nDeveloped standardized procedures for expense management and financial reporting\nCreated comprehensive cash flow projection models to ensure operational stability\nEstablished cross-departmental communication protocols to streamline financial operations\n\n\n\nResults\n\nAchieved 95% accuracy in financial reporting across all managed institutions\nReduced operational expenses by 22% through efficient resource allocation\nEnsured 100% compliance with regulatory requirements, avoiding penalties\nImproved cash flow visibility, enabling better decision-making for receivership management\n\n\n\nSkills Demonstrated\n\nFinancial oversight and compliance\nCash flow management\nExpense optimization\nCross-functional collaboration\n\n\n\n\n\nBudget Optimization Initiative\nInternal Project, PwC | 2021-2022\n\n\nChallenge\nOperating branches faced inconsistent budget management practices, leading to resource inefficiencies and reporting discrepancies.\n\n\nApproach\n\nAnalyzed historical expense patterns across all operating branches\nDeveloped standardized utility and expense tracking templates\nImplemented centralized budget monitoring system\nTrained branch managers on effective budget management practices\n\n\n\nResults\n\nStandardized expense reporting across all branches\nReduced utility costs by 18% through better monitoring and management\nImproved budget forecasting accuracy by 30%\nCreated transparent financial reporting structure for stakeholders\n\n\n\nSkills Demonstrated\n\nBudget analysis and optimization\nProcess standardization\nFinancial training and knowledge transfer\nResource allocation"
   },
   {
-    "objectID": "reflection.html#ensuring-authenticity-and-accuracy",
-    "href": "reflection.html#ensuring-authenticity-and-accuracy",
-    "title": "Reflection on LLM Use",
-    "section": "Ensuring Authenticity and Accuracy",
-    "text": "Ensuring Authenticity and Accuracy\nMaintaining the authenticity and accuracy of my portfolio was paramount throughout this process. Here’s how I approached this challenge:\nFact-Checking and Verification: For every piece of content generated by the LLM, I meticulously reviewed and verified all factual information against my actual experience and qualifications. This included dates, job responsibilities, project outcomes, and skill levels.\nVoice and Tone Consistency: I provided the LLM with examples of my writing style and repeatedly emphasized the importance of maintaining a consistent professional voice that authentically represented me. When generated content didn’t align with my natural communication style, I requested specific adjustments.\nBalancing AI Assistance with Personal Input: While the LLM was invaluable for generating structure and suggesting content approaches, I made sure to heavily edit and personalize all content. This ensured that the final portfolio accurately reflected my unique experiences and perspective rather than generic professional language.\nContextual Accuracy: I paid special attention to ensuring that all content was contextually accurate to my specific industry and geographic experience. This sometimes required correcting LLM-generated content that made assumptions based on more general professional contexts rather than my specific experience in Ghana and Canada."
+    "objectID": "projects.html#sales-growth",
+    "href": "projects.html#sales-growth",
+    "title": "Projects & Case Studies",
+    "section": "Sales & Marketing Projects",
+    "text": "Sales & Marketing Projects\n\nSales Growth Initiative\nAtaa Maame Enterprise | 2020-2022\n\n\nChallenge\nThe business faced increasing competition and needed to expand market share while improving customer retention.\n\n\nApproach\n\nConducted comprehensive market analysis to identify growth opportunities\nDeveloped targeted marketing campaigns for different customer segments\nImplemented customer loyalty program to improve retention\nEstablished strategic partnerships with key suppliers to enhance product offerings\n\n\n\nResults\n\nIncreased overall sales by 35% over two years\nImproved customer retention rate by 40%\nExpanded product range by 25% through new supplier relationships\nReduced marketing costs by 15% while achieving higher conversion rates\n\n\n\nSkills Demonstrated\n\nStrategic planning\nMarket analysis\nCustomer relationship management\nPartnership development\n\n\n\n\n\nStore Merchandising Redesign\nAtaa Maame Enterprise | 2021\n\n\nChallenge\nProduct visibility and store layout were suboptimal, affecting customer experience and sales performance.\n\n\nApproach\n\nAnalyzed customer traffic patterns and purchasing behavior\nRedesigned store layout to improve product visibility and customer flow\nImplemented strategic product placement based on margin and popularity\nCreated eye-catching displays for promotional items\n\n\n\nResults\n\nIncreased impulse purchases by 30%\nImproved overall store sales by 22%\nEnhanced customer satisfaction scores by 25%\nReduced time spent by customers searching for products\n\n\n\nSkills Demonstrated\n\nRetail space optimization\nConsumer behavior analysis\nVisual merchandising\nSales strategy"
   },
   {
-    "objectID": "reflection.html#challenges-and-solutions",
-    "href": "reflection.html#challenges-and-solutions",
-    "title": "Reflection on LLM Use",
-    "section": "Challenges and Solutions",
-    "text": "Challenges and Solutions\nChallenge: The LLM occasionally generated overly ambitious or exaggerated claims about project outcomes or skill levels.\nSolution: I established clear guidelines for quantifiable achievements, only including metrics I could substantiate, and adjusted skill level descriptions to accurately reflect my capabilities.\nChallenge: Maintaining consistency across multiple pages generated in different sessions.\nSolution: I created a style guide document that I referenced in prompts to the LLM, ensuring consistent terminology, formatting, and tone across all pages.\nChallenge: The LLM sometimes struggled with the technical aspects of Quarto formatting.\nSolution: I learned to request content in a more basic format first, then manually applied the appropriate Quarto-specific formatting and features."
+    "objectID": "projects.html#market-expansion",
+    "href": "projects.html#market-expansion",
+    "title": "Projects & Case Studies",
+    "section": "Market Research Projects",
+    "text": "Market Research Projects\n\nMarket Expansion Analysis\nGuinness Ghana Brewery PLC (Diageo) | 2017\n\n\nChallenge\nThe company needed to identify new market opportunities and optimize distribution channels for Guinness products.\n\n\nApproach\n\nConducted comprehensive market research across different regions\nAnalyzed consumer preferences and purchasing patterns\nEvaluated existing distribution networks for efficiency\nIdentified underserved market segments with growth potential\n\n\n\nResults\n\nIdentified three new viable market segments for targeted marketing\nDeveloped distribution optimization strategy that reduced costs by 12%\nCreated customer profile database to inform future product development\nProvided actionable insights that informed regional marketing strategies\n\n\n\nSkills Demonstrated\n\nMarket research and analysis\nConsumer behavior understanding\nDistribution channel optimization\nStrategic planning\n\n\n\n\n\nSales Performance Analytics\nGuinness Ghana Brewery PLC (Diageo) | 2016-2017\n\n\nChallenge\nSales reporting was inconsistent, making it difficult to identify trends and opportunities for improvement.\n\n\nApproach\n\nDeveloped standardized sales reporting templates\nImplemented weekly, monthly, and quarterly reporting cycles\nCreated visualization dashboards for key performance indicators\nEstablished performance benchmarks for different market segments\n\n\n\nResults\n\nImproved sales data accuracy by 40%\nEnabled data-driven decision making for product promotions\nIdentified seasonal trends that informed inventory management\nProvided clear performance metrics that motivated sales team\n\n\n\nSkills Demonstrated\n\nData analysis and reporting\nPerformance measurement\nTrend identification\nStrategic decision support"
   },
   {
-    "objectID": "reflection.html#lessons-learned",
-    "href": "reflection.html#lessons-learned",
-    "title": "Reflection on LLM Use",
-    "section": "Lessons Learned",
-    "text": "Lessons Learned\nThis process has taught me several valuable lessons about effectively working with LLMs:\n\nClear Boundaries: Establishing clear boundaries between AI assistance and personal input is essential for maintaining authenticity.\nSpecific Guidance: The more specific and structured the prompts, the more useful and accurate the LLM’s output.\nCritical Evaluation: Always approach LLM-generated content with a critical eye, particularly regarding factual claims and personal representation.\nIterative Process: The most effective approach is iterative, with multiple rounds of generation, feedback, and refinement.\nTechnical Limitations: Understanding the technical limitations of LLMs helps set realistic expectations and develop appropriate workflows."
+    "objectID": "projects.html#academic-projects",
+    "href": "projects.html#academic-projects",
+    "title": "Projects & Case Studies",
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\nFinancial Management System Analysis\nMBA Program, University Canada West | 2023\n\n\nChallenge\nAnalyze the effectiveness of financial management systems in mid-sized enterprises and propose improvements.\n\n\nApproach\n\nConducted literature review on best practices in financial management\nAnalyzed case studies of successful financial system implementations\nDeveloped evaluation framework for assessing system effectiveness\nCreated implementation roadmap for system improvements\n\n\n\nResults\n\nComprehensive analysis report with actionable recommendations\nIdentified key success factors for financial system implementation\nDeveloped cost-benefit analysis framework for system upgrades\nCreated change management strategy for system transitions\n\n\n\nSkills Demonstrated\n\nAcademic research\nCritical analysis\nFinancial systems knowledge\nStrategic planning"
   },
   {
-    "objectID": "reflection.html#conclusion",
-    "href": "reflection.html#conclusion",
-    "title": "Reflection on LLM Use",
-    "section": "Conclusion",
-    "text": "Conclusion\nExpanding my portfolio into a multi-page website with the assistance of LLMs has been a valuable learning experience. The process has not only resulted in a more comprehensive and professional online presence but has also deepened my understanding of how to effectively leverage AI tools while maintaining authenticity and accuracy.\nAs AI tools continue to evolve, I believe the key to their effective use lies in viewing them as collaborative assistants rather than autonomous creators. By maintaining a clear vision of my goals and identity, providing specific guidance, and critically evaluating all generated content, I was able to create a portfolio that authentically represents my professional journey while benefiting from the efficiency and creative suggestions that LLMs can provide.\nMoving forward, I plan to continue refining my approach to working with LLMs, focusing on even more specific prompting strategies and developing more structured workflows for content creation and verification."
+    "objectID": "projects.html#future-projects",
+    "href": "projects.html#future-projects",
+    "title": "Projects & Case Studies",
+    "section": "Future Projects",
+    "text": "Future Projects\nI’m currently developing several new initiatives:\n\nESG Financial Reporting Framework: Developing guidelines for integrating environmental, social, and governance factors into financial reporting\nDigital Transformation in Financial Management: Researching the impact of digital technologies on financial processes and controls\nCross-Border Financial Operations: Analyzing challenges and opportunities in managing financial operations across multiple jurisdictions\n\nContact me if you’d like to discuss any of these projects or potential collaborations."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Akosua Anima Osei-Sempremoo",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
     "section": "",
-    "text": "Akosua Anima Osei-Sempremoo\n\n\n\n\nI’m an MBA candidate with expertise in financial management, accounting, and business development. With a background spanning financial consulting, sales strategy, and regulatory compliance, I bring a unique perspective to driving organizational success.\nLearn More About Me View My Resume"
+    "text": "I’m always open to discussing new opportunities, collaborations, or just connecting with fellow professionals. Feel free to reach out through any of the channels below.\n\n\n\nEmail: akosua.animaosei@gmail.com\nPhone: - Ghana: +233 20 658 3994 - Canada: +1 778 723 3994\nLocation: Currently based in Vancouver, Canada"
   },
   {
-    "objectID": "index.html#professional-highlights",
-    "href": "index.html#professional-highlights",
-    "title": "Akosua Anima Osei-Sempremoo",
-    "section": "Professional Highlights",
-    "text": "Professional Highlights\n\nFinancial Expertise\nStrong foundation in financial analysis, reporting, and compliance with experience at PwC and other organizations.\n\n\nStrategic Leadership\nProven track record in sales management and strategic planning to drive business growth and operational efficiency.\n\n\nGlobal Perspective\nInternational experience and education across Ghana and Canada, bringing diverse insights to business challenges."
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Akosua Anima Osei-Sempremoo",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\nFinancial Recovery Strategy\nLed financial transaction oversight for microfinance institutions, ensuring regulatory compliance and operational stability. View Project\n\n\nSales Growth Initiative\nDeveloped comprehensive sales strategies that increased market penetration and customer retention at Ataa Maame Enterprise. View Project\n\n\nMarket Expansion Analysis\nConducted market research and analysis to identify new opportunities for Guinness Ghana Brewery products. View Project"
-  },
-  {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Akosua Anima Osei-Sempremoo",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nI’m always open to discussing new opportunities, collaborations, or just connecting with fellow professionals.\nContact Me"
-  },
-  {
-    "objectID": "appendix.html",
-    "href": "appendix.html",
-    "title": "Appendix",
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Me",
     "section": "",
-    "text": "This appendix documents the LLM-generated site map and section drafts used as the foundation for my multi-page MBA portfolio website. Each section includes the original LLM output and annotations describing my revisions and customizations."
-  },
-  {
-    "objectID": "appendix.html#introduction",
-    "href": "appendix.html#introduction",
-    "title": "Appendix",
-    "section": "",
-    "text": "This appendix documents the LLM-generated site map and section drafts used as the foundation for my multi-page MBA portfolio website. Each section includes the original LLM output and annotations describing my revisions and customizations."
-  },
-  {
-    "objectID": "appendix.html#initial-site-map",
-    "href": "appendix.html#initial-site-map",
-    "title": "Appendix",
-    "section": "Initial Site Map",
-    "text": "Initial Site Map\n\nOriginal LLM Output"
+    "text": "I’m always open to discussing new opportunities, collaborations, or just connecting with fellow professionals. Feel free to reach out through any of the channels below.\n\n\n\nEmail: akosua.animaosei@gmail.com\nPhone: - Ghana: +233 20 658 3994 - Canada: +1 778 723 3994\nLocation: Currently based in Vancouver, Canada"
   },
   {
     "objectID": "about.html",
@@ -196,67 +161,32 @@
     "text": "Let’s Connect\nI’m always open to connecting with fellow professionals, discussing potential collaborations, or exploring new opportunities. Feel free to reach out to start a conversation."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Akosua Anima Osei-Sempremoo",
     "section": "",
-    "text": "I’m always open to discussing new opportunities, collaborations, or just connecting with fellow professionals. Feel free to reach out through any of the channels below.\n\n\n\nEmail: akosua.animaosei@gmail.com\nPhone: - Ghana: +233 20 658 3994 - Canada: +1 778 723 3994\nLocation: Currently based in Vancouver, Canada"
+    "text": "Akosua Anima Osei-Sempremoo\n\n\n\n\nI’m an MBA candidate with expertise in financial management, accounting, and business development. With a background spanning financial consulting, sales strategy, and regulatory compliance, I bring a unique perspective to driving organizational success.\nLearn More About Me View My Resume"
   },
   {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact Me",
-    "section": "",
-    "text": "I’m always open to discussing new opportunities, collaborations, or just connecting with fellow professionals. Feel free to reach out through any of the channels below.\n\n\n\nEmail: akosua.animaosei@gmail.com\nPhone: - Ghana: +233 20 658 3994 - Canada: +1 778 723 3994\nLocation: Currently based in Vancouver, Canada"
+    "objectID": "index.html#professional-highlights",
+    "href": "index.html#professional-highlights",
+    "title": "Akosua Anima Osei-Sempremoo",
+    "section": "Professional Highlights",
+    "text": "Professional Highlights\n\nFinancial Expertise\nStrong foundation in financial analysis, reporting, and compliance with experience at PwC and other organizations.\n\n\nStrategic Leadership\nProven track record in sales management and strategic planning to drive business growth and operational efficiency.\n\n\nGlobal Perspective\nInternational experience and education across Ghana and Canada, bringing diverse insights to business challenges."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects & Case Studies",
-    "section": "",
-    "text": "This page highlights key projects and initiatives I’ve led throughout my professional career. Each case study demonstrates my approach to problem-solving, strategic thinking, and delivering measurable results."
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Akosua Anima Osei-Sempremoo",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nFinancial Recovery Strategy\nLed financial transaction oversight for microfinance institutions, ensuring regulatory compliance and operational stability. View Project\n\n\nSales Growth Initiative\nDeveloped comprehensive sales strategies that increased market penetration and customer retention at Ataa Maame Enterprise. View Project\n\n\nMarket Expansion Analysis\nConducted market research and analysis to identify new opportunities for Guinness Ghana Brewery products. View Project"
   },
   {
-    "objectID": "projects.html#overview",
-    "href": "projects.html#overview",
-    "title": "Projects & Case Studies",
-    "section": "",
-    "text": "This page highlights key projects and initiatives I’ve led throughout my professional career. Each case study demonstrates my approach to problem-solving, strategic thinking, and delivering measurable results."
-  },
-  {
-    "objectID": "projects.html#financial-recovery",
-    "href": "projects.html#financial-recovery",
-    "title": "Projects & Case Studies",
-    "section": "Financial Management Projects",
-    "text": "Financial Management Projects\n\nFinancial Recovery Strategy for Microfinance Institutions\nThe Receivership of 347 Microfinance Institutions (PwC) | 2020-2023\n\n\nChallenge\nFollowing the financial sector cleanup in Ghana, 347 microfinance institutions required comprehensive financial oversight to ensure proper asset recovery and creditor settlements.\n\n\nApproach\n\nImplemented robust financial transaction monitoring systems across multiple branches\nDeveloped standardized procedures for expense management and financial reporting\nCreated comprehensive cash flow projection models to ensure operational stability\nEstablished cross-departmental communication protocols to streamline financial operations\n\n\n\nResults\n\nAchieved 95% accuracy in financial reporting across all managed institutions\nReduced operational expenses by 22% through efficient resource allocation\nEnsured 100% compliance with regulatory requirements, avoiding penalties\nImproved cash flow visibility, enabling better decision-making for receivership management\n\n\n\nSkills Demonstrated\n\nFinancial oversight and compliance\nCash flow management\nExpense optimization\nCross-functional collaboration\n\n\n\n\n\nBudget Optimization Initiative\nInternal Project, PwC | 2021-2022\n\n\nChallenge\nOperating branches faced inconsistent budget management practices, leading to resource inefficiencies and reporting discrepancies.\n\n\nApproach\n\nAnalyzed historical expense patterns across all operating branches\nDeveloped standardized utility and expense tracking templates\nImplemented centralized budget monitoring system\nTrained branch managers on effective budget management practices\n\n\n\nResults\n\nStandardized expense reporting across all branches\nReduced utility costs by 18% through better monitoring and management\nImproved budget forecasting accuracy by 30%\nCreated transparent financial reporting structure for stakeholders\n\n\n\nSkills Demonstrated\n\nBudget analysis and optimization\nProcess standardization\nFinancial training and knowledge transfer\nResource allocation"
-  },
-  {
-    "objectID": "projects.html#sales-growth",
-    "href": "projects.html#sales-growth",
-    "title": "Projects & Case Studies",
-    "section": "Sales & Marketing Projects",
-    "text": "Sales & Marketing Projects\n\nSales Growth Initiative\nAtaa Maame Enterprise | 2020-2022\n\n\nChallenge\nThe business faced increasing competition and needed to expand market share while improving customer retention.\n\n\nApproach\n\nConducted comprehensive market analysis to identify growth opportunities\nDeveloped targeted marketing campaigns for different customer segments\nImplemented customer loyalty program to improve retention\nEstablished strategic partnerships with key suppliers to enhance product offerings\n\n\n\nResults\n\nIncreased overall sales by 35% over two years\nImproved customer retention rate by 40%\nExpanded product range by 25% through new supplier relationships\nReduced marketing costs by 15% while achieving higher conversion rates\n\n\n\nSkills Demonstrated\n\nStrategic planning\nMarket analysis\nCustomer relationship management\nPartnership development\n\n\n\n\n\nStore Merchandising Redesign\nAtaa Maame Enterprise | 2021\n\n\nChallenge\nProduct visibility and store layout were suboptimal, affecting customer experience and sales performance.\n\n\nApproach\n\nAnalyzed customer traffic patterns and purchasing behavior\nRedesigned store layout to improve product visibility and customer flow\nImplemented strategic product placement based on margin and popularity\nCreated eye-catching displays for promotional items\n\n\n\nResults\n\nIncreased impulse purchases by 30%\nImproved overall store sales by 22%\nEnhanced customer satisfaction scores by 25%\nReduced time spent by customers searching for products\n\n\n\nSkills Demonstrated\n\nRetail space optimization\nConsumer behavior analysis\nVisual merchandising\nSales strategy"
-  },
-  {
-    "objectID": "projects.html#market-expansion",
-    "href": "projects.html#market-expansion",
-    "title": "Projects & Case Studies",
-    "section": "Market Research Projects",
-    "text": "Market Research Projects\n\nMarket Expansion Analysis\nGuinness Ghana Brewery PLC (Diageo) | 2017\n\n\nChallenge\nThe company needed to identify new market opportunities and optimize distribution channels for Guinness products.\n\n\nApproach\n\nConducted comprehensive market research across different regions\nAnalyzed consumer preferences and purchasing patterns\nEvaluated existing distribution networks for efficiency\nIdentified underserved market segments with growth potential\n\n\n\nResults\n\nIdentified three new viable market segments for targeted marketing\nDeveloped distribution optimization strategy that reduced costs by 12%\nCreated customer profile database to inform future product development\nProvided actionable insights that informed regional marketing strategies\n\n\n\nSkills Demonstrated\n\nMarket research and analysis\nConsumer behavior understanding\nDistribution channel optimization\nStrategic planning\n\n\n\n\n\nSales Performance Analytics\nGuinness Ghana Brewery PLC (Diageo) | 2016-2017\n\n\nChallenge\nSales reporting was inconsistent, making it difficult to identify trends and opportunities for improvement.\n\n\nApproach\n\nDeveloped standardized sales reporting templates\nImplemented weekly, monthly, and quarterly reporting cycles\nCreated visualization dashboards for key performance indicators\nEstablished performance benchmarks for different market segments\n\n\n\nResults\n\nImproved sales data accuracy by 40%\nEnabled data-driven decision making for product promotions\nIdentified seasonal trends that informed inventory management\nProvided clear performance metrics that motivated sales team\n\n\n\nSkills Demonstrated\n\nData analysis and reporting\nPerformance measurement\nTrend identification\nStrategic decision support"
-  },
-  {
-    "objectID": "projects.html#academic-projects",
-    "href": "projects.html#academic-projects",
-    "title": "Projects & Case Studies",
-    "section": "Academic Projects",
-    "text": "Academic Projects\n\nFinancial Management System Analysis\nMBA Program, University Canada West | 2023\n\n\nChallenge\nAnalyze the effectiveness of financial management systems in mid-sized enterprises and propose improvements.\n\n\nApproach\n\nConducted literature review on best practices in financial management\nAnalyzed case studies of successful financial system implementations\nDeveloped evaluation framework for assessing system effectiveness\nCreated implementation roadmap for system improvements\n\n\n\nResults\n\nComprehensive analysis report with actionable recommendations\nIdentified key success factors for financial system implementation\nDeveloped cost-benefit analysis framework for system upgrades\nCreated change management strategy for system transitions\n\n\n\nSkills Demonstrated\n\nAcademic research\nCritical analysis\nFinancial systems knowledge\nStrategic planning"
-  },
-  {
-    "objectID": "projects.html#future-projects",
-    "href": "projects.html#future-projects",
-    "title": "Projects & Case Studies",
-    "section": "Future Projects",
-    "text": "Future Projects\nI’m currently developing several new initiatives:\n\nESG Financial Reporting Framework: Developing guidelines for integrating environmental, social, and governance factors into financial reporting\nDigital Transformation in Financial Management: Researching the impact of digital technologies on financial processes and controls\nCross-Border Financial Operations: Analyzing challenges and opportunities in managing financial operations across multiple jurisdictions\n\nContact me if you’d like to discuss any of these projects or potential collaborations."
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Akosua Anima Osei-Sempremoo",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nI’m always open to discussing new opportunities, collaborations, or just connecting with fellow professionals.\nContact Me"
   },
   {
     "objectID": "resume.html",

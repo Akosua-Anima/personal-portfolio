@@ -18,11 +18,6 @@ website:
         text: Skills
       - href: contact.qmd
         text: Contact
-    right:
-      - href: reflection.qmd
-        text: Reflection
-      - href: appendix.qmd
-        text: Appendix
 
 format:
   html:

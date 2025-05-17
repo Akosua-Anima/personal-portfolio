@@ -1267,6 +1267,66 @@
   .experience-entry li:last-child {
     margin-bottom: 0;
   }
+
+  /* Skills Section Styling */
+.skills-section {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif;
+}
+
+.skills-section h3 {
+  color: #2a5885;
+  border-bottom: 2px solid #2a5885;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.skills-section ul {
+  list-style-type: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 1rem;
+}
+
+.skills-section li {
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+  background-color: #ffffff;
+  border-left: 4px solid #2a5885;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease-in-out;
+}
+
+.skills-section li:hover {
+  transform: translateX(5px);
+  background-color: #f0f7ff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .skills-section ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Print styles */
+@media print {
+  .skills-section {
+    box-shadow: none;
+    background-color: white;
+  }
+  
+  .skills-section li {
+    border-left: 2px solid #2a5885;
+  }
+}
   
   /* ==========================================================================
      9. SKILLS VISUALIZATION
